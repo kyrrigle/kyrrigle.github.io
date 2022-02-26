@@ -23,10 +23,11 @@ category: league
 | 31.53   | [WESTERN UNITED PIONEERS FC ELITE](https://youthsoccerrankings.us/team.html?teamId=3815962)        |
 | ??      | Connecticut FC CFC South Girls NL 07                                                               |
 | ??      | Seacoast United Massachusetts Seacoast United 2007 Premier Blue Girls                              |
-\About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
+
+About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 >  The rankings are based solely on team results. Every goal in every game is considered when calculating the ranking of each team. Each team is assigned a score that is measured in goals. To predict the goal difference when two teams play each other simply subtract the score of one team from the score of the other. For example, if Denver Rovers (35.6) plays Parker Stars (33.5) then you can expect Denver Rovers to win by about 2 goals.
 
 
 ***
-Generated Sat Feb 26 14:55:23 2022
+Generated Sat Feb 26 14:58:25 2022
