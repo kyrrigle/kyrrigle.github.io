@@ -1,7 +1,7 @@
 ---
-    title: "DPL U15 New England"
-    category: league
-    ---
+title: "DPL U15 New England"
+category: league
+---
 
     
 * [Schedule & Standings](https://system.gotsport.com/org_event/events/5046/schedules?team=309326)
@@ -24,4 +24,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Wed Mar  9 17:14:03 2022
+Generated Wed Mar  9 17:16:05 2022

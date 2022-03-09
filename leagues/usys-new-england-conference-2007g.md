@@ -1,7 +1,7 @@
 ---
-    title: "USYS New England Conference 2007G"
-    category: league
-    ---
+title: "USYS New England Conference 2007G"
+category: league
+---
 
     
 * [Schedule & Standings](https://system.gotsport.com/org_event/events/13181/schedules?team=535062)
@@ -30,4 +30,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Wed Mar  9 17:14:03 2022
+Generated Wed Mar  9 17:16:05 2022
