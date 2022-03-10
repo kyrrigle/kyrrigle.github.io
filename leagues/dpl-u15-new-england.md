@@ -24,4 +24,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Wed Mar  9 17:17:40 2022
+Generated Thu Mar 10 10:20:16 2022
