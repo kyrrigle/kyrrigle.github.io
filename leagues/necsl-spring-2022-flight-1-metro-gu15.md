@@ -8,11 +8,11 @@ category: league
 
 | Ranking | Team                                                                                        |
 |:--------|:--------------------------------------------------------------------------------------------|
-| 30.92   | [FRANKLIN SC](https://youthsoccerrankings.us/team.html?teamId=3845361)                      |
-| 29.81   | [MASS YOUNG GUNNERS LADY GUNNERS](https://youthsoccerrankings.us/team.html?teamId=3809934)  |
-| 28.89   | [SCORPIONS SOCCER METRO WEST NAVY](https://youthsoccerrankings.us/team.html?teamId=2106483) |
-| 28.10   | [NEW ENGLAND SURF STATE ROYAL](https://youthsoccerrankings.us/team.html?teamId=3608112)     |
-| 26.56   | [NEFC METRO WEST ELITE WHITE](https://youthsoccerrankings.us/team.html?teamId=3799536)      |
+| 30.99   | [FRANKLIN SC](https://youthsoccerrankings.us/team.html?teamId=3845361)                      |
+| 30.34   | [MASS YOUNG GUNNERS LADY GUNNERS](https://youthsoccerrankings.us/team.html?teamId=3809934)  |
+| 29.19   | [SCORPIONS SOCCER METRO WEST NAVY](https://youthsoccerrankings.us/team.html?teamId=2106483) |
+| 28.84   | [NEW ENGLAND SURF STATE ROYAL](https://youthsoccerrankings.us/team.html?teamId=3608112)     |
+| 26.66   | [NEFC METRO WEST ELITE WHITE](https://youthsoccerrankings.us/team.html?teamId=3799536)      |
 | ??      | Scorpions SC Scorpions 2007/08 Central Navy                                                 |
 | ??      | Juventus Academy Boston SW 2007/08 Girls                                                    |
 | ??      | Rhode Island Surf Rhode Island Surf G2007 Central                                           |
@@ -23,4 +23,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Thu Mar 10 10:20:16 2022
+Generated Mon Mar 28 07:29:27 2022
