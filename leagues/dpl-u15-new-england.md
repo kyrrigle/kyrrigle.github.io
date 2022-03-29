@@ -6,17 +6,17 @@ category: league
     
 * [Schedule & Standings](https://system.gotsport.com/org_event/events/5046/schedules?team=309326)
 
-| Ranking | Team                                                                                                          |
-|:--------|:--------------------------------------------------------------------------------------------------------------|
-| 34.77   | [NEW ENGLAND SURF STATE NAVY](https://youthsoccerrankings.us/team.html?teamId=3801240)                        |
-| 34.41   | [NEFC NORTH SHORE DPL](https://youthsoccerrankings.us/team.html?teamId=3805389)                               |
-| 34.22   | [RHODE ISLAND SURF ELITE BLUE](https://youthsoccerrankings.us/team.html?teamId=3803463)                       |
-| 33.34   | [NEFC DPL](https://youthsoccerrankings.us/team.html?teamId=3817923)                                           |
-| 33.33   | [SEACOAST UNITED MASSACHUSETTS MASS SOUTH ELITE DPL](https://youthsoccerrankings.us/team.html?teamId=3816774) |
-| 32.75   | [SEACOAST UNITED MAINE SC DPL](https://youthsoccerrankings.us/team.html?teamId=3816881)                       |
-| 32.52   | [JUVENTUS ACADEMY BOSTON EDS N](https://youthsoccerrankings.us/team.html?teamId=3798603)                      |
-| 32.45   | [NEFC WEST DPL](https://youthsoccerrankings.us/team.html?teamId=3799571)                                      |
-| 31.71   | [SEACOAST UNITED DPL](https://youthsoccerrankings.us/team.html?teamId=3798436)                                |
+| Ranking | Team                                                                                            |
+|:--------|:------------------------------------------------------------------------------------------------|
+| 34.72   | [NEW ENGLAND SURF STATE NAVY](https://youthsoccerrankings.us/team.html?teamId=3876031)          |
+| 34.20   | [RHODE ISLAND SURF ELITE BLUE](https://youthsoccerrankings.us/team.html?teamId=3877865)         |
+| 34.00   | [NEFC NORTH SHORE DPL](https://youthsoccerrankings.us/team.html?teamId=3805389)                 |
+| 33.32   | [NEFC DPL](https://youthsoccerrankings.us/team.html?teamId=3878095)                             |
+| 33.11   | [SEACOAST UNITED MASS SOUTH ELITE DPL](https://youthsoccerrankings.us/team.html?teamId=3816774) |
+| 32.70   | [SEACOAST UNITED MAINE SC DPL](https://youthsoccerrankings.us/team.html?teamId=3871925)         |
+| 32.44   | [JUVENTUS ACADEMY BOSTON EDS N](https://youthsoccerrankings.us/team.html?teamId=3798603)        |
+| 32.42   | [NEFC WEST DPL](https://youthsoccerrankings.us/team.html?teamId=3799571)                        |
+| 31.67   | [SEACOAST UNITED DPL](https://youthsoccerrankings.us/team.html?teamId=3872008)                  |
 
 About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
@@ -24,4 +24,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Mon Mar 28 07:29:27 2022
+Generated Tue Mar 29 16:27:28 2022

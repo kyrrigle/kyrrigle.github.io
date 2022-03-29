@@ -8,19 +8,19 @@ category: league
 
 | Ranking | Team                                                                                               |
 |:--------|:---------------------------------------------------------------------------------------------------|
-| 35.34   | [GINGA FC ELITE CT](https://youthsoccerrankings.us/team.html?teamId=3798832)                       |
-| 34.77   | [NEW ENGLAND SURF STATE NAVY](https://youthsoccerrankings.us/team.html?teamId=3801240)             |
-| 33.64   | [CT RUSH SELECT](https://youthsoccerrankings.us/team.html?teamId=3800790)                          |
+| 35.36   | [GINGA FC ELITE CT](https://youthsoccerrankings.us/team.html?teamId=3798832)                       |
+| 34.72   | [NEW ENGLAND SURF STATE NAVY](https://youthsoccerrankings.us/team.html?teamId=3876031)             |
+| 33.89   | [CT RUSH SELECT](https://youthsoccerrankings.us/team.html?teamId=3800790)                          |
 | 32.98   | [CFC NORTH FC REGIONAL](https://youthsoccerrankings.us/team.html?teamId=3591086)                   |
-| 32.60   | [GALWAY ROVERS EDP DACEY](https://youthsoccerrankings.us/team.html?teamId=3816659)                 |
-| 32.57   | [JUVENTUS ACADEMY BOSTON EDS S](https://youthsoccerrankings.us/team.html?teamId=3817483)           |
-| 32.52   | [JUVENTUS ACADEMY BOSTON EDS N](https://youthsoccerrankings.us/team.html?teamId=3798603)           |
-| 32.43   | [SPORTING CT](https://youthsoccerrankings.us/team.html?teamId=2247438)                             |
-| 32.10   | [NEW ENGLAND SURF STATE SKY](https://youthsoccerrankings.us/team.html?teamId=3605130)              |
+| 32.84   | [GALWAY ROVERS EDP DACEY](https://youthsoccerrankings.us/team.html?teamId=3816659)                 |
+| 32.56   | [JUVENTUS ACADEMY BOSTON EDS S](https://youthsoccerrankings.us/team.html?teamId=3872097)           |
+| 32.50   | [SPORTING CT](https://youthsoccerrankings.us/team.html?teamId=2247438)                             |
+| 32.44   | [JUVENTUS ACADEMY BOSTON EDS N](https://youthsoccerrankings.us/team.html?teamId=3798603)           |
+| 32.00   | [NEW ENGLAND SURF STATE SKY](https://youthsoccerrankings.us/team.html?teamId=3872479)              |
 | 31.75   | [SOUTHEAST SC](https://youthsoccerrankings.us/team.html?teamId=1854067)                            |
-| 31.58   | [WESTERN UNITED PIONEERS FC ELITE](https://youthsoccerrankings.us/team.html?teamId=3815962)        |
-| 31.40   | [CONNECTICUT FC VALLEY EDP NATIONAL](https://youthsoccerrankings.us/team.html?teamId=2324078)      |
-| 31.35   | [AC CONNECTICUT CONNECTICUT EDP NATIONAL](https://youthsoccerrankings.us/team.html?teamId=3589148) |
+| 31.55   | [WESTERN UNITED PIONEERS FC ELITE](https://youthsoccerrankings.us/team.html?teamId=3867654)        |
+| 31.45   | [AC CONNECTICUT CONNECTICUT EDP NATIONAL](https://youthsoccerrankings.us/team.html?teamId=3589148) |
+| 31.34   | [CONNECTICUT FC VALLEY EDP NATIONAL](https://youthsoccerrankings.us/team.html?teamId=2324078)      |
 | ??      | Connecticut FC CFC South Girls NL 07                                                               |
 | ??      | Seacoast United Massachusetts Seacoast United 2007 Premier Blue Girls                              |
 
@@ -30,4 +30,4 @@ About the rankings from [Youth Soccer Ranking](https://youthsoccerrankings.us):
 
 
 ***
-Generated Mon Mar 28 07:29:27 2022
+Generated Tue Mar 29 16:27:28 2022
